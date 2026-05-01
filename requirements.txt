@@ -1,0 +1,10 @@
+# Arduino library requirements for next-forge
+# Install these libraries with Arduino CLI or manually in Arduino IDE.
+# Example with Arduino CLI:
+#   arduino-cli lib install "M5StickC-Plus" "M5Unified" "WiFiManager" "PubSubClient" "ArduinoJson"
+
+M5StickC-Plus
+M5Unified
+WiFiManager
+PubSubClient
+ArduinoJson

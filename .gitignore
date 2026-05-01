@@ -1,0 +1,33 @@
+# Arduino build output
+build/
+*.bin
+*.elf
+*.hex
+*.eep
+*.eep.hex
+*.log
+*.map
+*.eep
+*.sym
+*.d
+
+# PlatformIO
+.pio/
+.platformio/
+
+# Arduino IDE
+*.cache
+*.orig
+*.tmp
+*.bak
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Visual Studio Code files
+.vscode/
+
+# Temporary files
+*.swp
+*~
