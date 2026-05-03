@@ -1,7 +1,7 @@
 #include "trial_logic.h"
 #include "config.h"
 #include "persistence.h"
-#include <M5StickCPlus2.h>
+#include <M5Unified.h>
 
 // External variables
 extern int startBtnState, stopBtnState, resetBtnState, trialRunning, forceStop;

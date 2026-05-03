@@ -2,7 +2,7 @@
 #include "config.h"
 #include <WiFiClient.h>
 #include <HTTPUpdate.h>
-#include <M5StickCPlus2.h>
+#include <M5Unified.h>
 
 // External WiFi client
 extern WiFiClient espClient;
